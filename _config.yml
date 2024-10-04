@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Hadi Babalou # the website title (if blank, full name will be used instead)
-first_name: Mohammad
-middle_name: Hadi
+title: # the website title (if blank, full name will be used instead)
+first_name: Hadi
+middle_name: 
 last_name: Babalou
 email: m.h.babalu@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -200,12 +200,12 @@ collections:
     permalink: /:collection/:title/
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
