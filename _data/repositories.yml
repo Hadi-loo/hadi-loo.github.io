@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - hadi-loo
 
-repo_description_lines_max: 2
+repo_description_lines_max: 4
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Hadi-loo/Benchmarking_ChatGPT_for_Persian
+  - Hadi-loo/Artificial-Intelligence-Course
+  - Hadi-loo/NNDL-CA6-VAE-GAN
+  - Hadi-loo/NNDL-CA5-Transformers
+  - Hadi-loo/NNDL-CA3-SAM-FasterRCNN
+  - Hadi-loo/NNDL-CA7-LoRA-FraudDetection
+  - Hadi-loo/NNDL-CA4-LSTMs
