@@ -313,8 +313,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Babalou]
+  first_name: [Mohammad Hadi, Hadi, M. Hadi, M. H., Mohammad H.]
 
   style: apa
   locale: en
