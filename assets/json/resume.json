@@ -33,8 +33,8 @@
       "location": "Tehran, Iran",
       "url": "https://ut.ac.ir/",
       "area": "Computer Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2020-09-01",
+      "studyType": "Bachelor of Science",
+      "startDate": "2020",
       "endDate": "",
       "score": "18.78/20"
     },
@@ -44,8 +44,8 @@
       "url": "",
       "area": "Mathematics and Physics",
       "studyType": "Diploma",
-      "startDate": "2017-09-01",
-      "endDate": "2020-06-01",
+      "startDate": "2017",
+      "endDate": "2020",
       "score": "19.59/20"
     }
   ],
@@ -55,13 +55,14 @@
       "publisher": "",
       "releaseDate": "2023",
       "url": "https://github.com/Hadi-loo/Benchmarking_ChatGPT_for_Persian",
-      "summary": "A preliminary study focusing on the performance of large language models for Persian language tasks."
+      "summary": "A preliminary study focusing on the performance of large language models for Persian language tasks. Submitted to LREC-COLING 2024: The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation."
     }
   ],
   "awards": [
     {
       "title": "Ranked top 5 out of 90 B.Sc. students in Computer Engineering",
-      "date": "2021-2024",
+      "startDate": "2021",
+      "endDate": "2024",
       "awarder": "University of Tehran"
     },
     {
@@ -80,24 +81,24 @@
       "name": "Bale Messenger",
       "position": "Software Engineer Intern",
       "url": "",
-      "startDate": "2022-06-01",
-      "endDate": "2022-09-01",
+      "startDate": "2022-06",
+      "endDate": "2022-09",
       "summary": "Worked as a Software Engineering intern specializing in Backend Development using Golang."
     },
     {
       "name": "Allame Helli High School",
       "position": "Teacher and Consultant",
       "url": "",
-      "startDate": "2019-09-01",
-      "endDate": "2020-06-01",
+      "startDate": "2019-09",
+      "endDate": "2020-06",
       "summary": "Taught and consulted for the Astronomy and Astrophysics Olympiad."
     },
     {
       "name": "Allame Helli High School",
       "position": "Mathematics and Physics Consultant",
       "url": "",
-      "startDate": "2020-09-01",
-      "endDate": "2020-06-01",
+      "startDate": "2020-09",
+      "endDate": "2020-06",
       "summary": "Provided consultation for Mathematics and Physics students."
     }
   ],
@@ -110,7 +111,7 @@
     {
       "name": "Technologies/Frameworks",
       "level": "",
-      "keywords": ["PyTorch", "TensorFlow", "Keras", "Docker", "Kubernetes", "Scikit-Learn", "Apache Cassandra", "MongoDB", "PostgreSQL", "Redis", "Elasticsearch"]
+      "keywords": ["PyTorch", "TensorFlow", "Linux", "Git", "Keras", "Docker", "Kubernetes", "Scikit-Learn", "Apache Cassandra", "MongoDB", "PostgreSQL", "Redis", "Elasticsearch"]
     }
   ],
   "languages": [
@@ -144,21 +145,5 @@
       "name": "Mathematical Puzzles"
     }
   ],
-  "projects": [
-    {
-      "name": "Artificial Intelligence Course Projects",
-      "summary": "Developed a series of AI projects covering topics like search algorithms, genetic algorithms, machine learning, and deep learning.",
-      "url": "https://github.com/Hadi-loo/Artificial-Intelligence-Course"
-    },
-    {
-      "name": "Concurrent Ticket Reservation System",
-      "summary": "Designed a concurrent ticket reservation system handling high-traffic scenarios efficiently using multithreading.",
-      "url": "https://github.com/Hadi-loo/Concurrent-Ticket-Reservation-System"
-    },
-    {
-      "name": "Software Testing Course Projects",
-      "summary": "Developed projects covering unit testing, graph-based testing, API testing, and mutation testing with CI.",
-      "url": "https://github.com/Hadi-loo/Software-Testing-Course"
-    }
-  ]
+  "projects": []
 }
