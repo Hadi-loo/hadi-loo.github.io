@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
+title: Research
 permalink: /projects/
-description: Collection of my projects
+description: My research experiences
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: ["Reseach Projects"]
 horizontal: false
 ---
 

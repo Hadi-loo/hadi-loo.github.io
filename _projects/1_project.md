@@ -1,81 +1,17 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Benchmarking ChatGPT for Persian
+description: Natural Language Processing Lab, University of Tehran
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Reseach Projects
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I was part of the Natural Language Processing lab in the ECE department, where I co-authored a published article titled “Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT” under the supervision of Prof. Y. Yaghoobzadeh.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This paper, accepted at the LREC-COLING 2024 conference, evaluates the performance of popular large language models (LLMs) on the Persian language, highlighting the absence of a comprehensive benchmark and analyzing state-of-the-art LLMs to identify areas for improvement. The study covers various NLP tasks in classical, reasoning, and knowledge-based domains. My specific contributions were focused on sentiment analysis and emotion recognition using the ParsiNLU and ArmanEmo datasets, respectively.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I explored how multilingual LLMs perform in the Persian language when given only instructions and few-shot examples for these tasks. Our experiments revealed several interesting findings, such as the better performance of English task descriptions over Persian in both tasks. Additionally, while increasing the number of shots did not significantly enhance GPT-3.5’s performance, it dramatically improved GPT-4’s results. Ultimately, the fine-tuned mT5 model using LoRA achieved state-of-the-art performance on both tasks.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+You can find the research paper in [publication section](https://hadi-loo.github.io/publications/). Also, the code and other material are available on the [GitHub repository](https://github.com/Hadi-loo/Benchmarking_ChatGPT_for_Persian).
