@@ -49,6 +49,33 @@
       "score": "19.59/20"
     }
   ],
+  "interests": [
+    {
+      "name": "Academic",
+      "keywords": [
+        "Machine Learning",
+        "Trustworthy AI",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Explainable AI",
+        "Astroinformatics",
+        "Image Processing",
+        "Data Science and Analytics",
+        "Bioinformatics"
+      ]
+    },
+    {
+      "name": "Personal",
+      "keywords": [
+        "Astronomy and Astrophysics",
+        "Football",
+        "Classic Novels",
+        "Video Games",
+        "Music",
+        "Mathematical Puzzles"
+      ]
+    }
+  ],
   "publications": [
     {
       "name": "Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT",
@@ -150,23 +177,6 @@
     {
       "language": "Arabic",
       "fluency": "Elementary Proficiency"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Football"
-    },
-    {
-      "name": "Classic Novels"
-    },
-    {
-      "name": "Video Games"
-    },
-    {
-      "name": "Music"
-    },
-    {
-      "name": "Mathematical Puzzles"
     }
   ],
   "projects": []
