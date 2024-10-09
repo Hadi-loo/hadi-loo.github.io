@@ -2,7 +2,7 @@
 layout: page
 title: Reachability Analysis of Hybrid Rebeca Models
 description: Formal Methods and Validation of Systems Lab, University of Tehran
-img: assets/img/12.jpg
+img: assets/img/HybridRebeca.jpg
 importance: 3
 category: Reseach Projects
 related_publications: false
