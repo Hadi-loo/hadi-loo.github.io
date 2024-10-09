@@ -2,7 +2,7 @@
 layout: page
 title: Early Autism Detection Mobile Application
 description: Convergent Technologies Research Center (NBIC), University of Tehran
-img: assets/img/12.jpg
+img: assets/img/AutismDetection.png
 importance: 2
 category: Reseach Projects
 related_publications: false
