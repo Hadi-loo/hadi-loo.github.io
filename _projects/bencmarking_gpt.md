@@ -2,7 +2,7 @@
 layout: page
 title: Benchmarking ChatGPT for Persian
 description: Natural Language Processing Lab, University of Tehran
-img: assets/img/12.jpg
+img: assets/img/BenchmarkingChatGPTForPersian.jpg
 importance: 1
 category: Reseach Projects
 related_publications: false
