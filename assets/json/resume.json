@@ -53,15 +53,18 @@
     {
       "name": "Academic",
       "keywords": [
-        "Machine Learning",
         "Trustworthy AI",
-        "Deep Learning",
-        "Natural Language Processing",
         "Explainable AI",
-        "Astroinformatics",
+        "Natural Language Processing",
+        "Responsible AI",
+        "Fairness and Robustness",
+        "Large Language Models",
         "Image Processing",
-        "Data Science and Analytics",
-        "Bioinformatics"
+        "Bio-informatics",
+        "Astro-informatics",
+        "Deep Learning",
+        "Speech Processing",
+        "Machine Learning"
       ]
     },
     {
